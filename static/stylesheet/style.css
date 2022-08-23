@@ -1,0 +1,72 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #000;
+}
+
+.navbar {
+  background-color: #000;
+  margin: 0 !important;
+  padding: 0px !important;
+  /* transition: 10s; */
+}
+
+.menu_nav {
+  background-color: #000;
+  transition: 0.5s;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.menu_nav:hover {
+  background-color: #c5a173;
+  color:#000 !important;
+}
+
+.tombol_data_1{
+  background-color: #000;
+  color:white;
+  transition: 0.5s;
+}
+
+.tombol_data_1:hover{
+  background-color: #c5a173;
+  color:#000 !important;
+}
+
+#Creator {
+  background-color: #000;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+#logo_cuaca {
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
+
+.footer {
+  background-color: #000;
+}
+
+.header-content {
+  text-align: left;
+  margin-left: 0;
+}
+
+.et_pb_module_header {
+  font-size: 6vw;
+}
+
+.judul {
+  font-size: 3vw;
+}
+
+.tombol_data {
+  text-align: left;
+  margin-left: 0;
+}
+
+et_pb_button et_pb_more_button et_pb_button_one
